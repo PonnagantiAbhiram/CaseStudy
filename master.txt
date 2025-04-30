@@ -1,2 +1,3 @@
 This is master file
 Change from f1
+This is change from f2
